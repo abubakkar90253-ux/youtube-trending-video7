@@ -1,1 +1,1 @@
-create a file named procfile web: gunicorn app:app
+web: gunicorn app:app
